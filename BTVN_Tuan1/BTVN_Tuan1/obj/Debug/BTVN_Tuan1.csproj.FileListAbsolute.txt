@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.exe.config
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.exe
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.pdb
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.Form1.resources
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.Properties.Resources.resources
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.exe
+C:\Users\Dell\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.pdb
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.exe.config
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.exe
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.pdb
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.exe
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\bin\Debug\BTVN_Tuan1.pdb
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.Form1.resources
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTVN_Tuan1\BTVN_Tuan1\obj\Debug\BTVN_Tuan1.csproj.GenerateResource.Cache
